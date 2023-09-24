@@ -1,0 +1,38 @@
+.bаnner {
+  margin-top: 126px;
+  margin-bottom: 300px;
+  background: linear-gradient(
+    95deg,
+    rgba(0, 117, 255, 0.47) 1.06%,
+    rgba(231, 0, 111, 0.41) 101.51%
+  );
+  height: 356px;
+  border-radius: 24px;
+  padding: 63px 362px;
+}
+.banner__supheader {
+  text-align: center;
+  font-family: MTN Brighter Sans Regular;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+.banner__header {
+  font-family: MTN Brighter Sans Bold;
+  font-size: 50px;
+  text-transform: capitalize;
+  text-align: center;
+  line-height: 50px;
+  margin-bottom: 32px;
+}
+.banner__button {
+  display: block;
+  width: 175px;
+  height: 57px;
+  border-radius: 10px;
+  background: #fff;
+  font-family: MTN Brighter Sans Medium;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}

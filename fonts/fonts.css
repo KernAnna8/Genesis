@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "MTN Brighter Sans Medium";
+  src: local("MTN Brighter Sans Medium"),
+    url("MTN Brighter Sans Medium.woff2") format("woff2"),
+    url("MTN Brighter Sans Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "MTN Brighter Sans Regular";
+  src: local("MTN Brighter Sans Regular"),
+    url("MTN Brighter Sans Regular.woff2") format("woff2"),
+    url("MTN Brighter Sans Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "MTN Brighter Sans Bold";
+  src: local("MTN Brighter Sans Bold"),
+    url("MTN Brighter Sans Bold.woff2") format("woff2"),
+    url("MTN Brighter Sans Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Outfit Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Outfit Regular"), url("OutfitRegular.woff") format("woff");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("Roboto-Regular.ttf");
+}

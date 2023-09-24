@@ -1,0 +1,35 @@
+.production {
+  margin-top: 178px;
+  max-width: 936px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.production__row {
+  display: flex;
+}
+.production__promo {
+  margin-right: 89px;
+}
+.production__header {
+  font-family: MTN Brighter Sans Regular;
+  font-size: 36px;
+  margin-bottom: 13px;
+  line-height: 36px;
+}
+.production__description {
+  font-family: Roboto;
+  font-size: 17px;
+  margin-bottom: 21px;
+}
+.production__button {
+  border-radius: 10px;
+  background: #7502a3;
+  color: #fff;
+  font-family: "MTN Brighter Sans Regular";
+  font-size: 20px;
+  width: 175px;
+  height: 57px;
+}
+.stproduction__img {
+  width: 100%;
+}

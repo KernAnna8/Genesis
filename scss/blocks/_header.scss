@@ -1,0 +1,88 @@
+.header {
+  padding-top: 106px;
+}
+.elipse {
+  position: absolute;
+  z-index: -1;
+  width: 365px;
+  height: 365px;
+  border-radius: 100%;
+}
+
+.header__elipse {
+  background-color: #010e58;
+  top: 0px;
+  left: 0px;
+  filter: blur(110px);
+}
+.header__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav__row {
+  display: flex;
+  font-family: Outfit;
+}
+
+.nav__item + .nav__item {
+  margin-left: 26px;
+}
+
+.promo {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.promo__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.promo__text {
+  max-width: 495px;
+}
+.promo__title {
+  font-size: 50px;
+  font-family: "MTN Brighter Sans Regular";
+  font-weight: 400;
+  line-height: 50px;
+  span {
+    font-weight: 700;
+  }
+}
+.promo__description {
+  margin-top: 10px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  max-width: 373px;
+  margin-bottom: 30px;
+}
+.promo__buttons {
+  display: flex;
+  align-items: center;
+}
+.promo__button {
+  width: 157px;
+  height: 57px;
+  border-radius: 10px;
+  color: #fff;
+  font-family: MTN Brighter Sans Regular;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.promo__button1 {
+  background-color: #d50138;
+  margin-right: 51px;
+  outline: none;
+}
+.promo__button2 {
+  border: 1px solid #8a8a8a;
+  background-color: #000000;
+}
+.promo__img {
+}

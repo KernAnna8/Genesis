@@ -1,0 +1,34 @@
+.studio {
+  margin-top: 160px;
+  max-width: 946px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.studio__row {
+  display: flex;
+}
+.stududio__img {
+  margin-right: 68px;
+  width: 100%;
+}
+.studio__promo {
+}
+.studio__header {
+  font-family: MTN Brighter Sans Regular;
+  font-size: 36px;
+  line-height: 36px;
+  margin-bottom: 13px;
+}
+.studio__description {
+  font-family: "Roboto";
+  font-size: 17px;
+  margin-bottom: 39px;
+}
+.studio__button {
+  border-radius: 10px;
+  background: #0026ff;
+  width: 175px;
+  height: 57px;
+  color: #fff;
+  font-family: MTN Brighter Sans Regular;
+}
